@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Ultima Practica del curso</string>
+    <string name="image">image</string>
+
 
 
 </resources>
